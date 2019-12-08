@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 4.14.157 Kernel Configuration
+# Linux/arm64 4.14.158 Kernel Configuration
 #
 CONFIG_ARM64=y
 CONFIG_64BIT=y
@@ -3074,7 +3074,6 @@ CONFIG_SPECTRA_CAMERA=y
 # CONFIG_MSM_AIS is not set
 # CONFIG_MSM_CAMERA is not set
 # CONFIG_MSMB_CAMERA is not set
-# CONFIG_USE_ROHM_BU64753 is not set
 CONFIG_MSM_VIDC_V4L2=y
 CONFIG_MSM_VIDC_GOVERNORS=y
 CONFIG_MSM_SDE_ROTATOR=y
@@ -3089,11 +3088,6 @@ CONFIG_DVB_MPQ_DEMUX=m
 CONFIG_DVB_MPQ_NUM_DMX_DEVICES=4
 CONFIG_DVB_MPQ_TSPP1=y
 CONFIG_TSPP=m
-
-#
-# Qualcomm Technologies, Inc. MSM Camera
-#
-# CONFIG_VCM_AK7374 is not set
 # CONFIG_V4L_MEM2MEM_DRIVERS is not set
 # CONFIG_V4L_TEST_DRIVERS is not set
 # CONFIG_DVB_PLATFORM_DRIVERS is not set
@@ -3107,19 +3101,11 @@ CONFIG_TSPP=m
 #
 
 #
-# Qualcomm Technologies, Inc. MSM Camera
-#
-
-#
 # Qualcomm Technologies, Inc. MSM Camera And Video
 #
 
 #
 # Qualcomm Technologies, Inc. Demux device config
-#
-
-#
-# Qualcomm Technologies, Inc. MSM Camera
 #
 
 #
